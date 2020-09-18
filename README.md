@@ -1,6 +1,6 @@
 # README
 
-To train models, first please unzip the PhysioNet data (set-a and set-b) into ***raw*** folder, including the label file ***Outcomes-ab.txt***. ***Outcomes-ab.txt*** = ***Outcomes-a.txt*** + ***Outcomes-b.txt***
+To train models, first please unzip the [Physionet dataset](https://physionet.org/content/challenge-2012/1.0.0/) data (set-a and set-b) into ***raw*** folder, including the label file ***Outcomes-ab.txt***. ***Outcomes-ab.txt*** = ***Outcomes-a.txt*** + ***Outcomes-b.txt***
 
 To run the model:
 * make a empty folder named ***json***, and run inpute_process.py.
